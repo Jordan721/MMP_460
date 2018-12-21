@@ -5,4 +5,9 @@ body {
 
 a {
 	font-family: 'Staatliches', cursive;
+	font-size: 25;
+}
+
+.navbar-brand {
+	font-size: 25;
 }
