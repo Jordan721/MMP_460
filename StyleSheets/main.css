@@ -11,3 +11,8 @@ a {
 .navbar-brand {
 	font-size: 25;
 }
+
+.navbar-inverse {
+     background-color: firebrick;
+     border-color: #080808;
+}

@@ -1,0 +1,13 @@
+body{
+	background: url(../Pics_1/anas-alshanti-169265-unsplash.jpg)no-repeat center center fixed;
+	background-size: cover;
+}
+
+a {
+	font-family: 'Staatliches', cursive;
+	font-size: 25;
+}
+
+.navbar-brand {
+	font-size: 25;
+}
