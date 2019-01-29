@@ -1,32 +1,32 @@
 body {
-	background: url(../Pics_1/anas-alshanti-169265-unsplash.jpg)no-repeat center center fixed;
-	background-size: cover;
+    background: url(../Pics_1/anas-alshanti-169265-unsplash.jpg)no-repeat center center fixed;
+    background-size: cover;
 }
 
 a {
-	font-family: 'Staatliches', cursive;
-	font-size: 25;
+    font-family: 'Staatliches', cursive;
+    font-size: 25;
 }
 
 .navbar-brand {
-	font-size: 25;
+    font-size: 25;
 }
 
 .navbar-inverse {
-	background-color: firebrick;
-	border-color: #080808;
+    background-color: firebrick;
+    border-color: #080808;
 }
 
 p {
-	font-family: 'Righteous', cursive;
-	color: aliceblue;
-	text-align: center;
-	font-size: 25;
+    font-family: 'Righteous', cursive;
+    color: aliceblue;
+    text-align: center;
+    font-size: 25;
 }
 
 h1 {
-	color: aliceblue;
-	font-family: 'Alfa Slab One', cursive;
-	text-align: center;
-	font-size: 50;
+    color: aliceblue;
+    font-family: 'Alfa Slab One', cursive;
+    text-align: center;
+    font-size: 50;
 }
