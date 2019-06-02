@@ -6,12 +6,12 @@ video {
 p {
 	font-family: 'PT Sans', sans-serif;
 	text-align: center;
-	font-size: 15px;
+	font-size: 20px;
 }
 
 p2 {
-	font-size: 15px;
-	float: left;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 20px;
 }
 
 h1 {
@@ -19,15 +19,32 @@ h1 {
 	font-size: 40px;
 }
 
-#small {
-	width: 10%;
-	float: left;
-}
-
 img {
 	width: 100%;
 	height: auto;
-	display: block;
+	
+}
+
+.left {
+	float: left;
+}
+
+.left:before {
+	content: "";
+	width: 125px;
+	height: 200px;
+}
+
+.left:before {
+	float: left;
+}
+
+#container {
+	width: 100px;
+}
+
+#text {
+	text-align: justify;
 }
 
 img.wrap {
